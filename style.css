@@ -161,6 +161,7 @@ footer {
 	}
 .accept+label {
 	margin-top: 22px;
+	paddig-right: 29px;
 	display: inline-flex;
 	align-items: center;
 	user-select: none;
